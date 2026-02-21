@@ -1,0 +1,16 @@
+{
+    "name": "Math",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa3194aeab2ea9446a8e67e1b547ecf4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
